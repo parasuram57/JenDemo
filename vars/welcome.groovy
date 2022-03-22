@@ -1,3 +1,6 @@
+def call(name){
+ echo "Good Morning with call method .... ${name} "
+}
 def sms(name){
  echo "Good Morning .... ${name} "
 }
